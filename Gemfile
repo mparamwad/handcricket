@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
 gem "haml-rails", "~> 2.0"
 gem 'devise'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'mongoid', '~> 7.0.5'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
